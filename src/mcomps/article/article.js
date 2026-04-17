@@ -1,8 +1,8 @@
 import "./article.css";
-import News from "../../artcomps/news/news";
-import About from "../../artcomps/about/about";
-import Contacts from "../../artcomps/contacts/contacts";
-import Er404 from "../../artcomps/er404/er404";
+import News from '../../components/artcomps/news/news';
+import About from '../../components/artcomps/about/about';
+import Contacts from '../../components/artcomps/contacts/contacts';
+import Er404 from '../../components/artcomps/er404/er404';
 import {Routes, Route} from "react-router-dom"
 
 
